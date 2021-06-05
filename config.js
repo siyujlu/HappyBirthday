@@ -10,7 +10,7 @@ var config = {
         "I will be there for you",
         "Turn around and you just saw",
         "I will be there for you",
-        "Like I‘ve been there before ",
+        "Like I've been there before ",
         "I will be there for you...",
         "总之， Happy Birthday, Happy Everyday!",
        
