@@ -4,8 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "生日快乐褚哥!",
-        "messages有点难写⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄，我就",
-        "改了一下friends的主题曲，送给你（￣︶￣）↗",
+        "我改了friends的主题曲，送给你hh",
         "I will be there for you",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "When the rain starts to pour",  // 同上...
         "I will be there for you",
@@ -13,9 +12,8 @@ var config = {
         "I will be there for you",
         "Like I‘ve been there before ",
         "I will be there for you...",
-        "总之",
-        "Happy Birthday!",
-        "Happy Everyday!",
+        "总之， Happy Birthday, Happy Everyday!",
+       
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
