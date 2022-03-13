@@ -3,16 +3,16 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "生日快乐!",
-        "我改了friends的主题曲，送给你hh",
+        "可凡生日快乐!",
+        "Maggie改了Friends的主题曲送给我们可爱的Stella",
         "I will be there for you",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "When the rain starts to pour",  // 同上...
         "I will be there for you",
-        "Turn around and you just saw",
+        "Turn around and you can see",
         "I will be there for you",
         "Like I've been there before ",
         "I will be there for you~",
-        "总之， Happy Birthday, Happy Everyday!",
+        "Happy Birthday, Happy Everyday!",
        
     ],
     /**
